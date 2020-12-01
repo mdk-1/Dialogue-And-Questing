@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd47faa75da1b84b92b11d76798a5ef, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  id: 1
+  name: Axe
+  description: This is axe
+  type: 2
+  maxStack: 1
+  currentAmount: 1
+  cost: 0
+  icon: {fileID: 0}
+  onGroundPrefab: {fileID: 2137542148402501732, guid: f6da05d426f48484abbf52bce6b5499a,
+    type: 3}
+  damage: 0
+  equipedMesh: {fileID: -8176984191909879101, guid: bcdd7b0a86bed36459dc46f3a35a373e,
+    type: 3}
+  equipedMaterial: {fileID: 2100000, guid: 5524900ba80ae894e9cfffd3814ee48b, type: 2}

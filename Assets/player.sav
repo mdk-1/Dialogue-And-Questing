@@ -1,0 +1,126 @@
+{
+    "appearance": {
+        "parts": [
+            {
+                "textureName": "Eyes_1",
+                "partType": 2
+            },
+            {
+                "textureName": "Armour_0",
+                "partType": 5
+            },
+            {
+                "textureName": "Clothes_7",
+                "partType": 4
+            },
+            {
+                "textureName": "Hair_3",
+                "partType": 1
+            },
+            {
+                "textureName": "Skin_2",
+                "partType": 0
+            },
+            {
+                "textureName": "Mouth_0",
+                "partType": 3
+            }
+        ]
+    },
+    "stats": {
+        "availableStatPoints": 0,
+        "baseStats": [
+            {
+                "baseStatName": "STR",
+                "defaultStat": 1,
+                "levelUpStat": 0,
+                "additionalStat": 1,
+                "statType": 0
+            },
+            {
+                "baseStatName": "DEX",
+                "defaultStat": 2,
+                "levelUpStat": 0,
+                "additionalStat": 1,
+                "statType": 1
+            },
+            {
+                "baseStatName": "CON",
+                "defaultStat": 2,
+                "levelUpStat": 0,
+                "additionalStat": 1,
+                "statType": 2
+            },
+            {
+                "baseStatName": "WIS",
+                "defaultStat": 2,
+                "levelUpStat": 0,
+                "additionalStat": 0,
+                "statType": 3
+            },
+            {
+                "baseStatName": "INT",
+                "defaultStat": 2,
+                "levelUpStat": 0,
+                "additionalStat": 3,
+                "statType": 4
+            },
+            {
+                "baseStatName": "CHA",
+                "defaultStat": 1,
+                "levelUpStat": 0,
+                "additionalStat": 4,
+                "statType": 5
+            }
+        ],
+        "speed": {
+            "defaultValue": 6.0,
+            "value": 9.0
+        },
+        "sprintSpeed": {
+            "defaultValue": 12.0,
+            "value": 16.5
+        },
+        "crouchSpeed": {
+            "defaultValue": 3.0,
+            "value": 4.5
+        },
+        "jumpHeight": {
+            "defaultValue": 1.0,
+            "value": 1.600000023841858
+        },
+        "maxHealth": {
+            "defaultValue": 100.0,
+            "value": 130.0
+        },
+        "regenHealth": {
+            "defaultValue": 5.0,
+            "value": 11.0
+        },
+        "maxMana": {
+            "defaultValue": 100.0,
+            "value": 165.0
+        },
+        "manaRegen": {
+            "defaultValue": 5.0,
+            "value": 12.0
+        },
+        "maxStamina": {
+            "defaultValue": 100.0,
+            "value": 120.0
+        },
+        "staminaRegen": {
+            "defaultValue": 10.0,
+            "value": 14.0
+        },
+        "level": 0,
+        "currentMana": 100.0,
+        "currentStamina": 100.0,
+        "healthHearts": {
+            "instanceID": 0
+        },
+        "currentHealth": 100.0
+    },
+    "name": "SYS TEST 3",
+    "playerClass": 2
+}

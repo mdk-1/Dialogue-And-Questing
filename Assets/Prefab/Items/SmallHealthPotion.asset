@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd938cc064a2fd4d9d191e2b3d02c06, type: 3}
+  m_Name: SmallHealthPotion
+  m_EditorClassIdentifier: 
+  id: 0
+  name: Small Health Potion
+  description: Restrores a small amount of health
+  type: 6
+  maxStack: 5
+  currentAmount: 2
+  cost: 10
+  icon: {fileID: 21300000, guid: 8f74e4f71b1e7f942ae09898602c3ff5, type: 3}
+  onGroundPrefab: {fileID: 2137542148402501732, guid: f6da05d426f48484abbf52bce6b5499a,
+    type: 3}
+  healAmount: 25

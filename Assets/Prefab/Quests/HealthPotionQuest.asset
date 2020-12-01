@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af5a7fe904ad8ce4eab262a20e135e69, type: 3}
+  m_Name: HealthPotionQuest
+  m_EditorClassIdentifier: 
+  title: Health Potion Quest
+  description: Get a health potion and return it to me
+  reward:
+    gold: 15
+    exp: 30
+    items: []
+  status: 0
+  minLevelToAccept: 0
+  itemsToFind:
+  - item: {fileID: 11400000, guid: eed4d04ef5f49344c96c9672326aae1c, type: 2}
+    requiredAmount: 1
+  removeItemsOnComplete: 1
